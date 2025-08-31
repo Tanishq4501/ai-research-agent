@@ -1,130 +1,247 @@
+# 🧠 AI Research Agent
+### *Your Automated Science Partner*
+
 <div align="center">
 
-🧠 AI Research Agent - Your Automated Science Partner
-A powerful, conversational AI agent that automates the entire research workflow—from finding relevant papers on arXiv to reading them and generating a brand-new, publication-ready research paper in PDF format.
+**A powerful, conversational AI agent that automates the entire research workflow—from finding relevant papers on arXiv to reading them and generating a brand-new, publication-ready research paper in PDF format.**
 
 </div>
 
-<p align="center">
-  <a href="https://huggingface.co/spaces/TanTheta03/research-agent" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-Hugging_Face-yellow%3Fstyle%3Dfor-the-badge%26logo%3Dhugging-face" alt="Live Demo"></a>
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-LangGraph-944999%3Fstyle%3Dfor-the-badge%26logo%3DLangChain" alt="LangChain">
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/LLM-Gemini_2.5_Pro-4A89F3%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-gemini" alt="Google Gemini">
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-1.49-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit" alt="Streamlit">
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Deployment-Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker" alt="Docker">
-</p>
+---
 
-✨ Live Application Access
-This agent is deployed and running on Hugging Face Spaces. Interact with it live!
+<div align="center">
 
-Live Site URL: https://huggingface.co/spaces/TanTheta03/research-agent
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black)](https://huggingface.co/spaces/TanTheta03/research-agent)
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-LangGraph-944999?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com)
+[![Google Gemini](https://img.shields.io/badge/🤖_LLM-Gemini_2.5_Pro-4A89F3?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com)
 
-🌟 Features
-🧠 Conversational Interface: Simply chat with the agent to define your research interests.
+[![Streamlit](https://img.shields.io/badge/⚡_Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Docker](https://img.shields.io/badge/🐳_Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
-🔍 Automated arXiv Search: Scours arXiv for the latest and most relevant papers based on your topic.
+</div>
 
-📄 On-Demand PDF Analysis: The agent can read and process the full text of any research paper from a URL.
+---
 
-✍️ AI-Powered Paper Generation: Leverages Google's Gemini 2.5 Pro to synthesize information and write a completely new research paper.
+## ✨ **Experience It Live**
 
-⚙️ LaTeX to PDF Rendering: Automatically compiles the generated LaTeX source code into a beautifully formatted PDF, ready for download.
+> 🎯 **Ready to revolutionize your research?** The agent is deployed and running on Hugging Face Spaces!
 
-🔬 Multi-Domain Expertise: Trained to assist across fields like physics, computer science, mathematics, economics, and more.
+<div align="center">
 
-📸 Screenshots
-To add your own screenshots, replace the https://placehold.co/... links with direct links to your images.
+### **[👉 Try It Now - Live Demo](https://huggingface.co/spaces/TanTheta03/research-agent)**
 
-Chat Interface & Paper Discovery
+</div>
 
-Paper Generation in Progress
+---
 
+## 🌟 **What Makes This Special**
 
+<table>
+<tr>
+<td width="50%">
 
+### 🎯 **Smart & Conversational**
+Simply chat with the agent to define your research interests. No complex forms or configuration needed.
 
+### 🔍 **Intelligent Discovery** 
+Automatically scours arXiv for the latest and most relevant papers based on your topic using advanced search algorithms.
 
-Agent Finds and Reads a Paper
+</td>
+<td width="50%">
 
-PDF Ready for Download
+### 📄 **Deep Analysis**
+Reads and processes the full text of any research paper from a URL, extracting key insights and methodologies.
 
+### ✍️ **AI-Powered Synthesis**
+Leverages Google's Gemini 2.5 Pro to synthesize information and write completely new, original research papers.
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
+### ⚙️ **Professional Output**
+Automatically compiles generated LaTeX source code into beautifully formatted PDFs, ready for academic submission.
 
+</td>
+<td width="50%">
 
-🛠️ Technology Stack
-Category
+### 🔬 **Multi-Domain Expertise**
+Trained to assist across diverse fields including physics, computer science, mathematics, economics, and more.
 
-Technology
+</td>
+</tr>
+</table>
 
-Core Logic
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-0.3-944999%3Fstyle%3Dflat-square%26logo%3DLangChain%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangGraph-0.6-944999%3Fstyle%3Dflat-square%26logo%3DLangChain%26logoColor%3Dwhite" />
+## 📸 **See It In Action**
 
-LLM
+<div align="center">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google-Gemini_2.5_Pro-4A89F3%3Fstyle%3Dflat-square%26logo%3Dgoogle-gemini%26logoColor%3Dwhite" />
+| 💬 **Chat Interface & Paper Discovery** | 🔄 **Paper Generation in Progress** |
+|:---:|:---:|
+| ![Chat Interface](https://placehold.co/400x250/1f2937/ffffff?text=Interactive+Chat+Interface) | ![Generation Progress](https://placehold.co/400x250/059669/ffffff?text=AI+Writing+Paper) |
 
-Frontend
+| 📖 **Agent Finds and Reads Papers** | 📄 **PDF Ready for Download** |
+|:---:|:---:|
+| ![Paper Analysis](https://placehold.co/400x250/7c3aed/ffffff?text=Reading+%26+Analysis) | ![PDF Output](https://placehold.co/400x250/dc2626/ffffff?text=Beautiful+PDF+Output) |
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-1.49-FF4B4B%3Fstyle%3Dflat-square%26logo%3Dstreamlit%26logoColor%3Dwhite" />
+</div>
 
-Deployment
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging_Face-Spaces-FFD21E%3Fstyle%3Dflat-square%26logo%3Dhugging-face%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
+## 🛠️ **Technology Stack**
 
-Tooling
+<div align="center">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ArXiv-API-B31B1B%3Fstyle%3Dflat-square%26logo%3Darxiv%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tectonic-LaTeX-000000%3Fstyle%3Dflat-square%26logo%3Dlatex%26logoColor%3Dwhite" />
+| **Category** | **Technologies** |
+|:---:|:---|
+| **🧠 Core Logic** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0.3-944999?style=flat-square&logo=LangChain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0.6-944999?style=flat-square&logo=LangChain&logoColor=white) |
+| **🤖 AI Engine** | ![Google Gemini](https://img.shields.io/badge/Gemini-2.5_Pro-4A89F3?style=flat-square&logo=google-gemini&logoColor=white) |
+| **🎨 Frontend** | ![Streamlit](https://img.shields.io/badge/Streamlit-1.49-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **☁️ Deployment** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Spaces-FFD21E?style=flat-square&logo=hugging-face&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **🔧 Tooling** | ![ArXiv](https://img.shields.io/badge/ArXiv-API-B31B1B?style=flat-square&logo=arxiv&logoColor=white) ![Tectonic](https://img.shields.io/badge/Tectonic-LaTeX-000000?style=flat-square&logo=latex&logoColor=white) |
 
-🚀 Local Development Setup
-Prerequisites
-Python 3.10+
+</div>
 
-Git
+---
 
-Tectonic: This project requires a local installation of the Tectonic LaTeX engine for PDF generation. Follow the official guide at tectonic-typesetting.org to install it on your system.
+## 🚀 **Quick Start Guide**
 
-Installation Steps
-Clone the repository
+### **Prerequisites**
 
-git clone [https://huggingface.co/spaces/TanTheta03/research-agent](https://huggingface.co/spaces/TanTheta03/research-agent)
+Make sure you have these installed on your system:
+
+- 🐍 **Python 3.10+**
+- 🔧 **Git**
+- 📝 **[Tectonic LaTeX Engine](https://tectonic-typesetting.org)** - Required for PDF generation
+
+### **Installation**
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://huggingface.co/spaces/TanTheta03/research-agent
 cd research-agent
 
-Create and activate a virtual environment
-
+# 2️⃣ Create virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
-Install Python dependencies
-
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-Set up your environment variables
+# 4️⃣ Configure environment
+echo "GOOGLE_API_KEY=your_api_key_here" > .env
 
-Create a file named .env in the root of the project.
-
-Add your Google Gemini API key to this file:
-
-GOOGLE_API_KEY="YOUR_API_KEY_HERE"
-
-Run the Streamlit application
-
+# 5️⃣ Launch the application
 streamlit run frontend.py
-
-The application will be available at http://localhost:8501.
-
-🤝 Contributing
-We welcome contributions! Please fork the repository, create a feature branch, and open a pull request.
-
-📄 License
-This project is licensed under the MIT License.
-
-👨‍💻 Author
-TanTheta03
-
-Hugging Face: @TanTheta03
-
-GitHub: <!--- Add your GitHub profile link here if you have one -->
+```
 
 <div align="center">
-  ⭐ Show Your Support! If you find this project cool, please consider giving the repository a star! ⭐
+
+🎉 **That's it!** Your research agent will be running at `http://localhost:8501`
+
 </div>
+
+---
+
+## 💡 **How It Works**
+
+```mermaid
+graph TD
+    A[🗣️ User Query] --> B[🔍 arXiv Search]
+    B --> C[📋 Paper Selection]
+    C --> D[📖 Content Analysis]
+    D --> E[🧠 AI Synthesis]
+    E --> F[📝 LaTeX Generation]
+    F --> G[📄 PDF Compilation]
+    G --> H[📥 Download Ready]
+
+    style A fill:#3b82f6,stroke:#1d4ed8,color:#fff
+    style H fill:#10b981,stroke:#047857,color:#fff
+    style E fill:#8b5cf6,stroke:#7c3aed,color:#fff
+```
+
+---
+
+## 🤝 **Contributing**
+
+We love contributions! Here's how you can help make this project even better:
+
+1. **🍴 Fork** the repository
+2. **🌱 Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **💫 Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **🚀 Push** to the branch (`git push origin feature/amazing-feature`)
+5. **📩 Open** a Pull Request
+
+---
+
+## 📋 **Roadmap**
+
+- [ ] 🔗 Integration with more academic databases (IEEE, PubMed, etc.)
+- [ ] 📊 Advanced citation analysis and visualization
+- [ ] 🎯 Collaborative research features
+- [ ] 🌍 Multi-language paper support
+- [ ] 📱 Mobile app development
+- [ ] 🔄 Real-time collaboration features
+
+---
+
+## 📄 **License**
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 **About the Creator**
+
+<div align="center">
+
+**Built with ❤️ by [TanTheta03](https://huggingface.co/TanTheta03)**
+
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-@TanTheta03-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black)](https://huggingface.co/TanTheta03)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **Show Your Support!** 
+
+If you find this project helpful, please consider giving it a star! It means the world to open-source developers.
+
+**[⭐ Star this Repository](https://github.com/your-username/research-agent)**
+
+---
+
+*"Transforming the way researchers discover, analyze, and create scientific knowledge."*
+
+</div>
+
+---
+
+<details>
+<summary>📚 <strong>Advanced Usage & Tips</strong></summary>
+
+### **🎯 Getting Better Results**
+
+- **Be Specific**: Instead of "machine learning," try "transformer attention mechanisms in NLP"
+- **Use Keywords**: Include technical terms relevant to your field
+- **Iterative Refinement**: Chat with the agent to refine your research scope
+
+### **🔧 Troubleshooting**
+
+- **PDF Generation Issues**: Ensure Tectonic is properly installed and accessible in your PATH
+- **API Limits**: The Gemini API has rate limits; wait a moment if you hit them
+- **Memory Issues**: For large papers, the agent processes content in chunks
+
+### **🌟 Pro Tips**
+
+- The agent works best with focused, specific research questions
+- You can ask it to focus on particular aspects of papers (methodology, results, etc.)
+- Generated papers include proper citations and references
+
+</details>
